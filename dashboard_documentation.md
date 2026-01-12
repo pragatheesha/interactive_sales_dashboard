@@ -78,6 +78,14 @@ What it Shows:
 Interpretation: 
 Interactive elements make it easier to examine individual data points and identify patterns.
 
+|#Chart Type          |	Purpose             |
+|---------------------|---------------------|
+| Box Plot            |	Price distribution  |
+| Bar Chart	          | Product sales       |
+| Heatmap	Correlation | analysis            |
+| Violin Plot         |	Sales spread        |
+| Interactive Bar	    | Hover insights      |
+
 # 7. Dashboard Design Principles
 
 * Consistent color palette across all charts
@@ -109,5 +117,3 @@ The Interactive Sales Dashboard effectively demonstrates how statistical and int
 * Include filters for category and product selection
 * Build a fully interactive web-based dashboard
 * Integrate larger, real-world datasets
-**End of Documentation**
-
