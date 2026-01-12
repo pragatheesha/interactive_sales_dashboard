@@ -18,7 +18,7 @@ The primary objectives of this project are:
 The dashboard uses a sales dataset (`sales_data.csv`) containing transactional information. The key columns used in the analysis are:
 | Column Name       | Description                      |
 | ----------------- | -------------------------------- |
-| Date              | Date of order
+| Date              | Date of order                    |
 | Order_ID          | Unique identifier for each order |
 | Product           | Name of the product sold         |
 | Category          | Product category                 |
