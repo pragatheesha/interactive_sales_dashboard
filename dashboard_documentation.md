@@ -78,7 +78,7 @@ What it Shows:
 Interpretation: 
 Interactive elements make it easier to examine individual data points and identify patterns.
 
-|#Chart Type          |	Purpose             |
+| Chart Type          |	Purpose             |
 |---------------------|---------------------|
 | Box Plot            |	Price distribution  |
 | Bar Chart	          | Product sales       |
